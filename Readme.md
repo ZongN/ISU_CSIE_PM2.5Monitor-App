@@ -9,3 +9,4 @@ The architecture is to obtain data through the sensor, then upload the data to t
 | Development Board | LinkIt™ 7697                    | [Here](http://labs.mediatek.com/en/platform/linkit-7697) |
 | Mobile Phone      | Android version 9.0 Pie         | [Here](https://developer.android.com/about/versions/pie) |
 
+## Architecture
