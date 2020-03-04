@@ -10,3 +10,7 @@ The architecture is to obtain data through the sensor, then upload the data to t
 | Mobile Phone      | Android version 9.0 Pie         | [Here](https://developer.android.com/about/versions/pie) |
 
 ## Architecture
+<p align="center">
+	<img src="https://github.com/ZongN/ISU_CSIE_PM2.5Monitor-App/blob/master/Architecture.png" alt="Sample"  width="35%" height="35%">
+	<p align="center"></p>
+</p>
