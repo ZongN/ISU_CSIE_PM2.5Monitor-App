@@ -1,6 +1,7 @@
 ## Introduction
 This is a simple master's class topic. It is a PM2.5 IoT application. 
 The architecture is to obtain data through the sensor, then upload the data to the network through IoT development board, and finally use APP to display real-time data to the user. And my part is the mobile interface.
+Thanks for my classmates CIOU FANG-KUEI,JHANG JHE-JHIH,JHAO YAN-TING,JHU MING-HONG for completing this topic together.
 
 ## Device
 | Device            | Model                           | Link |
