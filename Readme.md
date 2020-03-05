@@ -5,7 +5,7 @@ The architecture is to obtain data through the sensor, then upload the data to t
 Thank to my classmates Ciou Fang-Kuei, Jhang Jhe-Jhih, Jhao Yan-Ting, Jhu Ming-Hhong for completing this topic together.
 
 ## App
-This app is programmed in *Java*, and the IED is *Android studio*. So, if you want to open the whole project, you can open it in the *Android studio*. API of the virtual device needs to be more than 23. The interface of the APP is relatively simple, because I don't have a major in arts.:sweat:
+This app is programmed in *Java*, and the IDE is *Android studio*. So, if you want to open the whole project, you can open it in the *Android studio*. API of the virtual device needs to be more than 23. The interface of the APP is relatively simple, because I don't have a major in arts.:sweat:
 
 In the top half of the screen, it's a real-time line graph, and the first combobox below is sensor options, then the value of PM2.5, air quality rating, temperature, humidity, and finally update time.
 
