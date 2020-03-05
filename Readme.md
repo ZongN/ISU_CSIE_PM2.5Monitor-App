@@ -26,3 +26,5 @@ But the most important thing is the web-side has been shut down, so the app can'
 	<img src="https://github.com/ZongN/ISU_CSIE_PM2.5Monitor-App/blob/master/Architecture.png" alt="Sample"  width="35%" height="35%">
 	<p align="center"></p>
 </p>
+
+### *Unzip the file before use*
