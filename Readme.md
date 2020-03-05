@@ -2,7 +2,7 @@
 This is a simple master's class topic. It is a PM2.5 IoT application. 
 The architecture is to obtain data through the sensor, then upload the data to the network through IoT development board, and finally use APP to display real-time data to the user. And my part is the mobile interface.
 
-Thanks for my classmates CIOU FANG-KUEI, JHANG JHE-JHIH, JHAO YAN-TING, JHU MING-HONG for completing this topic together.
+Thank to my classmates Ciou Fang-Kuei, Jhang Jhe-Jhih, Jhao Yan-Ting, Jhu Ming-Hhong for completing this topic together.
 
 ## Device
 | Device            | Model                           | Link |
@@ -16,3 +16,10 @@ Thanks for my classmates CIOU FANG-KUEI, JHANG JHE-JHIH, JHAO YAN-TING, JHU MING
 	<img src="https://github.com/ZongN/ISU_CSIE_PM2.5Monitor-App/blob/master/Architecture.png" alt="Sample"  width="35%" height="35%">
 	<p align="center"></p>
 </p>
+
+## App
+This app is programmed in *Java*, and the IED is *Android studio*. So, if you want to open the whole project, you can open it in the *Android studio*. API of the virtual device needs to be more than 23. The interface of the APP is relatively simple, because I don't have a major in arts.:sweat:
+
+In the top half of the screen, it's a real-time line graph, and the first combobox below is sensor options, then the value of PM2.5, air quality rating, temperature, humidity, and finally update time.
+
+But the most important thing is the web-side has been shut down, so the app can't get data anymore. If you want to rewrite the program, I recommend that you start with the data capture part. And this is what I will do in the future.
