@@ -23,3 +23,5 @@ This app is programmed in *Java*, and the IED is *Android studio*. So, if you wa
 In the top half of the screen, it's a real-time line graph, and the first combobox below is sensor options, then the value of PM2.5, air quality rating, temperature, humidity, and finally update time.
 
 But the most important thing is the web-side has been shut down, so the app can't get data anymore. If you want to rewrite the program, I recommend that you start with the data capture part. And this is what I will do in the future.
+
+![](https://img.shields.io/badge/Android-9.0%20Pie-brightgreen) ![](https://img.shields.io/badge/Android%20studio-3.1.3-blueviolet) ![](https://img.shields.io/badge/API-%3E23.0-ff69b4) 
